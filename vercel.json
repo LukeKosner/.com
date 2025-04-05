@@ -1,8 +1,0 @@
-{
-  "crons": [
-    {
-      "path": "/api/gamle",
-      "schedule": "50 23 * * *"
-    }
-  ]
-}
